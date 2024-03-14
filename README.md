@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 Hello,
 I'm Thais! :)
 
@@ -28,4 +27,3 @@ GitHub
 Docker
 Windows
 Ubuntu
--->
