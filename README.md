@@ -6,7 +6,7 @@ I'm Thais! :)
 Information about me:
 I'm looking for an internship in the IT field;
 I study analysis and systems development;
-As I'm still a student in the 2nd semester, I haven't decided on a specific area yet, but I enjoy developing in Python, information security, and data.
+As I'm still a student in the 2nd semester, I haven't decided on a specific area yet, but I enjoy developing in Python, cyber security, and data.
 
 Fun facts about me:
 I have a degree in architecture and urbanism with a postgraduate degree in housing and city planning;
