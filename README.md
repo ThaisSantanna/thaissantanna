@@ -17,7 +17,7 @@ I want to be able to share knowledge and help people.
 
 I am currently studying:
 SQL
-Python (PE and POO)
+Python
 
 Tools / Operating Systems:
 Visual Studio Code
