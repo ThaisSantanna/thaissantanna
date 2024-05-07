@@ -16,8 +16,7 @@ I had my first contact with web programming during adolescence by building a blo
 I want to be able to share knowledge and help people.
 
 I am currently studying:
-SQL
-Python
+Python and AWS
 
 Tools / Operating Systems:
 Visual Studio Code
