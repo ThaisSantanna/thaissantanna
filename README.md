@@ -1,28 +1,46 @@
-### Hi there 👋
+<!-- Header -->
+<h1 align="center">Hi there, I'm Thais! 👋</h1>
 
-Hello,
-I'm Thais! :)
+<!-- About Me Section -->
+<h2>About Me</h2>
+<p>🎓 I'm a second-semester student studying Analysis and Systems Development, actively seeking an internship in the IT field.</p>
+<p>💻 Although I haven't settled on a specific area yet, I'm passionate about Python, cybersecurity, and data.</p>
 
-Information about me:
-I'm looking for an internship in the IT field;
-I study analysis and systems development;
-As I'm still a student in the 2nd semester, I haven't decided on a specific area yet, but I enjoy developing in Python, cyber security, and data.
+<!-- Fun Facts Section -->
+<h2>Fun Facts</h2>
+<ul>
+  <li>🏢 I hold a degree in Architecture and Urbanism with a postgraduate degree in Housing and City Planning.</li>
+  <li>🌎 Proudly based in Rio de Janeiro - RJ, Brazil.</li>
+  <li>🎮 Apart from coding, I'm a gamer at heart.</li>
+  <li>💡 My journey into web programming began in my adolescence when I started building blogs in HTML and CSS.</li>
+  <li>🔍 I'm curious, communicative, adaptable, and organized, always eager to learn and share knowledge.</li>
+</ul>
 
-Fun facts about me:
-I have a degree in architecture and urbanism with a postgraduate degree in housing and city planning;
-I live in Rio de Janeiro - RJ, Brazil.
-I'm curious, communicative, adaptable, organized, and a gamer 😊
-I had my first contact with web programming during adolescence by building a blogs in HTML and CSS rs
-I want to be able to share knowledge and help people.
+<!-- Currently Learning Section -->
+<h2>Currently Learning</h2>
+<ul>
+  <li>🐍 Python</li>
+  <li>💾 SQL</li>
+  <li>☁️ AWS</li>
+</ul>
 
-I am currently studying:
-Python and AWS
+<!-- Tools & OS Section -->
+<h2>Tools & Operating Systems</h2>
+<p>🛠️ Visual Studio Code | PyCharm | Git | GitHub | Docker</p>
+<p>💻 Windows | Ubuntu</p>
 
-Tools / Operating Systems:
-Visual Studio Code
-Pycharm
-Git
-GitHub
-Docker
-Windows
-Ubuntu
+<!-- Let's Connect Section -->
+<h2>Let's Connect!</h2>
+<p>Feel free to reach out on:</p>
+<div align="center">
+  <a href="https://github.com/thaissantanna">
+    <img src="https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=2bbc8a" alt="GitHub Profile">
+  </a>
+  <a href="https://www.linkedin.com/in/thaissantanna/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn Profile">
+  </a>
+  <a href="https://www.instagram.com/athaissantanna/">
+    <img src="https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=E4405F" alt="Instagram Profile">
+  </a>
+</div>
+
