@@ -3,7 +3,7 @@
 
 <!-- About Me Section -->
 <h2>About Me</h2>
-<p>🎓 I'm a second-semester student studying Analysis and Systems Development, actively seeking an internship in the IT field.</p>
+<p>🎓 I'm a third semester student studying Analysis and Systems Development, actively seeking an internship in the IT field.</p>
 <p>💻 Although I haven't settled on a specific area yet, I'm passionate about Python, cybersecurity, and data.</p>
 
 <!-- Fun Facts Section -->
