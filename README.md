@@ -21,12 +21,11 @@
 <ul>
   <li>🐍 Python</li>
   <li>💾 SQL</li>
-  <li>☁️ AWS</li>
 </ul>
 
 <!-- Tools & OS Section -->
 <h2>Tools & Operating Systems</h2>
-<p>🛠️ Visual Studio Code | PyCharm | Git | GitHub | Docker</p>
+<p>🛠️ VsCode | Git | GitHub| OracleSql </p>
 <p>💻 Windows | Ubuntu</p>
 
 <!-- Let's Connect Section -->
