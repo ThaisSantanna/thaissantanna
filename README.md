@@ -3,7 +3,7 @@
 
 <!-- About Me Section -->
 <h2>About Me</h2>
-<p>🎓 I'm a third semester student studying Analysis and Systems Development, actively seeking an internship in the IT field.</p>
+<p>🎓 I'm a second-semester student studying Analysis and Systems Development, actively seeking an internship in the IT field.</p>
 <p>💻 Although I haven't settled on a specific area yet, I'm passionate about Python, cybersecurity, and data.</p>
 
 <!-- Fun Facts Section -->
@@ -25,7 +25,7 @@
 
 <!-- Tools & OS Section -->
 <h2>Tools & Operating Systems</h2>
-<p>🛠️ VsCode | Git | GitHub| OracleSql </p>
+<p>🛠️ VsCode | Git | GitHub | OracleSql </p>
 <p>💻 Windows | Ubuntu</p>
 
 <!-- Let's Connect Section -->
